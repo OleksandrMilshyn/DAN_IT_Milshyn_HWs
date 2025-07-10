@@ -1,6 +1,7 @@
 package hw_2.task_1;
 
 public class Main {
+
     public static void main(String[] args) {
         String string1 = "This line that i want to cut, cause it is too long";
         String string2 = string1.substring(0,35);
